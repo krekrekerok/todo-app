@@ -1,5 +1,5 @@
 {
-  "name": "contact_book",
+  "name": "todo_book",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
