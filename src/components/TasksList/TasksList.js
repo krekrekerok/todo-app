@@ -16,7 +16,7 @@ const TasksList = (props) => {
                                 Edit
                             </button>
                             <button class = 'delete-btn'
-                                onClick={()=> props.handleDeleteTodo(item.id)}
+                                onClick={()=> props.handleDeleteTask(item.id)}
                             > 
                                 Delete 
                             </button>
